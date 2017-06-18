@@ -1,1 +1,2 @@
-# case_study
+# Diagnostic-Center
+Diagnostic Center
